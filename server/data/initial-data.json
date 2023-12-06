@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Sunset Paradise Hotel",
+    "imageurls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2Dp0VC3X9YNMnmsrnk2IGUqAZwt4ztRzcZmPiLNrRwlsCWK3aHCXXD9TPYBJ",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7ZtHNzwG0a7QOgVJ6iNYXGQTVKVTbifkRokShDmrds5NpV5QuWjk8qN-KAGm",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbMxm7jD6b7qBAN2wkHf2nup0qQj4YPRjC1-lkcKlJ9ltrBN5mZqMuoEsF8l1K"
+    ],
+    "rentperday": 1500,
+    "type": "delux",
+    "maxcount": 3,
+    "phonenumber": "9876543210",
+    "currentBookings": [],
+    "description": "Sunset Paradise Hotel offers luxurious and spacious rooms with stunning ocean views, perfect for a relaxing and unforgettable stay."
+  },
+  {
+    "name": "City View Hotel",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2KE7WFhnf0DYoggAKbpjdxQqTxBMCgenZqZ1LbwPQn0UfV0MptOXVM1T-Nw--",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWtzBlJ8XTPDsT_iMsfDL3YursHRQyzM1MxwZD4C52ZdmOG262W4Am67zcH_nE",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuP58zkaln4OY1xb2oX9FWhRaw95YfMkkeLHO6M_stYfuBXQ7uAW4SsvUYdF1"
+    ],
+    "rentperday": 1800,
+    "type": "delux",
+    "maxcount": 2,
+    "phonenumber": "9876123456",
+    "currentBookings": [],
+    "description": "City View Hotel provides top-notch amenities and excellent services. Enjoy a comfortable and stylish stay in the heart of the city."
+  },
+  {
+    "name": "Budget Inn",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLrWYGXSl-C6CpsFG2t2jSfSaB9Sin3wXUPy5jHmLI8k8FLRZr_fxU2dolgXba",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQGIAK0OHbA5PL5VhADHqzXqAG_5qfAko4PpQXAK_f25CF1wr_-3GqKZgSyIgN",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvlJeYD87toi_nJZ1BihsjOVCowxAxUxr-YYc77e-mI24hrwllHMhNngjDLKHL"
+    ],
+    "rentperday": 1200,
+    "type": "non-delux",
+    "maxcount": 2,
+    "phonenumber": "9888888888",
+    "currentBookings": [],
+    "description": "Budget Inn is a budget-friendly choice for travelers. Experience a comfortable and affordable stay without compromising on quality."
+  },
+  {
+    "name": "Luxury Suites by the Bay",
+    "imageurls": [
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS17ONtPBEZVxW-SAq-bDx_aZ_dAFZED5bNVIE3_1VeexZGxllgayYducr4c8sY",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzfjzvtzppCUifjFREfnCisRcdlVxIl-VFBSD2_HBdNK20d9Ir-b06MYqzgfsT",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJMovwhl9FeRpo9ITNeJimhiDanrxVZgrfGPmFW3xkx3kK84CXMV82Q1bJAWsB"
+    ],
+    "rentperday": 2200,
+    "type": "delux",
+    "maxcount": 2,
+    "phonenumber": "9876987654",
+    "currentBookings": [],
+    "description": "Luxury Suites by the Bay offers opulent suites with breathtaking bay views. Indulge in a luxurious stay and create lasting memories."
+  },
+  {
+    "name": "Business Traveler's Haven",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7KUjlKlTXVI6eb_ksuOubHcVWcU0yecRIIaKOWxAgT7oPSAnAfpySdj4SPXO1",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQayET0VQPrLfeHJ7L4FHWYRNVwgIDtxnztDvuUOjvUZ5jLLZToGjs3l2L8A6z8",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQRb6lhyDS3tph45X7dGgkpK7qWZYlx6WuPX-nox8pYsGFypU0mwWB4l_Y4cub"
+    ],
+    "rentperday": 1600,
+    "type": "non-delux",
+    "maxcount": 3,
+    "phonenumber": "9877123456",
+    "currentBookings": [],
+    "description": "Business Traveler's Haven caters to business travelers with its comfortable and well-appointed rooms. Enjoy a productive and hassle-free stay."
+  },
+  {
+    "name": "Classic Comfort Inn",
+    "imageurls": [
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjtYoo39TdhZ3LAW3Hx5zZHnvMMGBTSqqNbh9YukgkglUqwm-_6DlvzGHJYBEM",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmSWdqyyNtlDS16Iq8S8yuvmc9RK0v-YC0661HTZ72_r1zHZmpa_zXik74xDpt",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmSWdqyyNtlDS16Iq8S8yuvmc9RK0v-YC0661HTZ72_r1zHZmpa_zXik74xDpt"
+    ],
+    "rentperday": 1800,
+    "type": "delux",
+    "maxcount": 3,
+    "phonenumber": "9877765432",
+    "currentBookings": [],
+    "description": "Classic Comfort Inn provides deluxe rooms for a premium experience."
+  },
+  {
+    "name": "Economy Suites",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7fy4HAaKZIiu7P1svPT7WpIeVyQa5jor_mbWQOkCXPkvFDkvbJKaMBnj3z7mD",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqWXUVOHuwr5UQw8ulqmLo9AL260fo6Uy8jol7bgw5RdywB8QTqTGIw69OSK_e",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBj2JggXSI6AZa-gljTKufAclIY3tly_DVowDPxMn02lPc7WxihfA0tQaqAz-8"
+    ],
+    "rentperday": 1300,
+    "type": "non-delux",
+    "maxcount": 2,
+    "phonenumber": "9877234567",
+    "currentBookings": [],
+    "description": "Economy Suites offers economical rooms for budget-conscious travelers. Experience a comfortable and budget-friendly stay."
+  },
+  {
+    "name": "Luxury Haven",
+    "imageurls": [
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7aYreSvk6pNwxhEC9UytQAr0NBQvcgOhB4BxQpTNYjKs5cBhd1V4QLyZDs0hb",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7aYreSvk6pNwxhEC9UytQAr0NBQvcgOhB4BxQpTNYjKs5cBhd1V4QLyZDs0hb",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmSWdqyyNtlDS16Iq8S8yuvmc9RK0v-YC0661HTZ72_r1zHZmpa_zXik74xDpt"
+    ],
+    "rentperday": 1500,
+    "type": "delux",
+    "maxcount": 3,
+    "phonenumber": "9877345678",
+    "currentBookings": [],
+    "description": "Luxury Haven provides deluxe rooms for a premium experience. Enjoy a luxurious and unforgettable stay in a serene environment."
+  },
+  {
+    "name": "Beachfront Retreat",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRuP58zkaln4OY1xb2oX9FWhRaw95YfMkkeLHO6M_stYfuBXQ7uAW4SsvUYdF1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtzBlJ8XTPDsT_iMsfDL3YursHRQyzM1MxwZD4C52ZdmOG262W4Am67zcH_nE",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuP58zkaln4OY1xb2oX9FWhRaw95YfMkkeLHO6M_stYfuBXQ7uAW4SsvUYdF1"
+    ],
+    "rentperday": 1600,
+    "type": "non-delux",
+    "maxcount": 2,
+    "phonenumber": "9877456789",
+    "currentBookings": [],
+    "description": "Beachfront Retreat offers cozy rooms just steps away from the beach. Enjoy a relaxing and tranquil stay with ocean views."
+  },
+  {
+    "name": "City Center Hotel",
+    "imageurls": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2KE7WFhnf0DYoggAKbpjdxQqTxBMCgenZqZ1LbwPQn0UfV0MptOXVM1T-Nw--",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWtzBlJ8XTPDsT_iMsfDL3YursHRQyzM1MxwZD4C52ZdmOG262W4Am67zcH_nE",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuP58zkaln4OY1xb2oX9FWhRaw95YfMkkeLHO6M_stYfuBXQ7uAW4SsvUYdF1"
+    ],
+    "rentperday": 1400,
+    "type": "delux",
+    "maxcount": 2,
+    "phonenumber": "9877567890",
+    "currentBookings": [],
+    "description": "City Center Hotel is a classic choice with deluxe rooms, conveniently located in the heart of the city."
+  }
+]

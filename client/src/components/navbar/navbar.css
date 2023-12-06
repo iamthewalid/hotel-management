@@ -1,0 +1,27 @@
+.navbar {
+  background: #000;
+}
+
+.nav-item .nav-link {
+  color: white;
+  font-size: 14px;
+  transition: all 0.1s ease;
+}
+
+.nav-item .nav-link:hover {
+  color: rgba(255, 255, 255, 0.808);
+}
+
+
+.navbar .navbar-brand {
+  color: white;
+  transition: all 0.1s ease;
+}
+
+.navbar .navbar-brand:hover {
+  color: rgba(255, 255, 255, 0.808);
+}
+
+.nav-item .nav-link.active {
+  font-weight: bold;
+}
